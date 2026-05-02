@@ -61,5 +61,6 @@ int main()
 {
     cout << "Hello Worl babu" << endl;
     cout<<"DSU implementation in C++" << endl;
+    cout<<"DSU stands for Disjoint Set Union, also known as Union-Find." << endl;
     return 0;
 }
