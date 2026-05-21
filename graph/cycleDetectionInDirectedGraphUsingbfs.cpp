@@ -1,0 +1,2 @@
+// here will be using kahn's algorithm to detect cycle in directed graph using bfs
+// the element which is not processed in the topo vector will be the part of the cycle and if there is no cycle then all the nodes will be processed and the size of the topo vector will be equal to V.
